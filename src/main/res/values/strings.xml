@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UAS_180030038_5</string>
+    <string name="judul_buku">Judul Buku</string>
+    <string name="penulis_buku">Penulis Buku</string>
+    <string name="jumlah_halaman">Jumlah Halaman</string>
+    <string name="gambar">gambar</string>
+    <string name="tambah">tambah</string>
+    <string name="_120">120</string>
+    <string name="author1">Author1</string>
+    <string name="title_1">Title 1</string>
+    <string name="_1">1</string>
+    <string name="todo">TODO</string>
+    <string name="perbaharui">PERBAHARUI</string>
+    <string name="hapus">HAPUS</string>
+    <string name="pilih_gambar">Pilih Gambar</string>
+</resources>
